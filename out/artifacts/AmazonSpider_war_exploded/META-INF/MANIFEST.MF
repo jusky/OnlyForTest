@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: webspider
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JUSKY
+Implementation-Vendor-Id: com.amazon
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_102-ea
+Main-Class: ${start-class}
+
